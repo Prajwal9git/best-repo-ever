@@ -1,3 +1,3 @@
 # best-repo-ever
 This is the first change
-Changes made for new-branch-1 to learn merge conflict
+This is the second change in new-branch-2 to learn merge conflict
